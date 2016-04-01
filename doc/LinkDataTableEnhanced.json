@@ -1,0 +1,25 @@
+{
+    "name": "LinkDataTableEnhanced",
+    "version": "4.0.1",
+    "framework": [
+        "4.0.x"
+    ],
+    "vendor": {
+        "name":  "Perl-Services.de",
+        "url": "http://www.perl-services.de"
+    },
+    "license": "GNU AFFERO GENERAL PUBLIC LICENSE Version 3, November 2007",
+    "description" : {
+        "en": "Enhancements for the LinkedData table",
+        "de": "Erweiterungen für die 'Verknüpfte Objekte' Tabelle"
+    },
+    "intro": [
+        {
+            "type": "Install",
+            "version": 0,
+            "text": [
+                "Thanks for choosing LinkDataTableEnhanced"
+            ]
+        }
+    ]
+}

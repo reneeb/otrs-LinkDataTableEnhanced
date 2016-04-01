@@ -1,0 +1,24 @@
+=head1 NAME
+
+LinkDataTableEnhanced
+
+=head1 DESCRIPTION
+
+This addon provides some enhancements for the LinkedData table:
+
+=over
+
+=item * You can sort the table data
+
+=item * Colorize the "state" column when the ticket is in pending state and pending date is over
+
+=back
+
+=head1 CODE AND BUGTRACKER
+
+The code repository and a bugtracker is available at
+L<https://github.com/reneeb/otrs-LinkDataTableEnhanced>
+
+=head1 AUTHOR
+
+Renee Baecker C<info@feature-addons.de>
